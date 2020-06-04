@@ -1,0 +1,8 @@
+.Results {
+  text-transform: capitalize;
+  display: inline-block;
+  margin: 0 8px;
+  border: 1px solid #ccc;
+  padding: 5px;
+  text-align: center;
+}
